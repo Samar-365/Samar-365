@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Samar
 
-<!--
-**Samar-365/Samar-365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
+B.E. Information Technology
+Maharashtra, India
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- JavaScript
+- Python
+- Flask
+- Node.js
+- SQL
+- Git
+- HTML/CSS
+
+## Featured Projects
+
+Lingo Live
+AI-powered screen translation software
+
+YTDownloadX
+YouTube Playlist & Video Downloader
+
+Smart Job Recommendation Portal
+ML-powered recommendation system
+
+## Currently Learning
+
+- Docker
+- CI/CD
+- System Design
