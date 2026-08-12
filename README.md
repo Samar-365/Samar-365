@@ -26,8 +26,30 @@ Maharashtra, India
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,python,flask,nodejs,mysql,git,github,html,css,vscode,docker&perline=6"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-1a1a1a?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-1a1a1a?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-1a1a1a?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini%20AI-1a1a1a?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lingo.dev%20API-1a1a1a?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq%20API-1a1a1a?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR-1a1a1a?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1a1a1a?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -35,13 +57,14 @@ Maharashtra, India
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samar-365&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=Samar-365&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-365&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samar-365/Samar-365/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samar-365/Samar-365/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Samar-365/Samar-365/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ---
 
@@ -53,27 +76,27 @@ Real-time AI-powered screen translation desktop application.
 
 **Tech:** Python • OCR • Gemini • Lingo.dev API • Text-to-Speech
 
-Repository: *(Add your GitHub repository link here)*
+Repository: https://github.com/Samar-365/lingo_live
 
 ---
 
-### YTDownloadX
+### LingualNews
 
-A YouTube video and playlist downloader with FFmpeg integration and multithreaded downloads.
+AI-powered multilingual news platform with real-time translation, AI summarization, and text-to-speech support.
 
-**Tech:** Python • Flask • yt-dlp • FFmpeg
+**Tech:** React • Vite • Groq API • Lingo.dev API • Axios
 
-Repository: *(Add your GitHub repository link here)*
+Repository: https://github.com/Samar-365/LingualNews
 
 ---
 
-### Smart Job Recommendation Portal
+### Lingo-Mail
 
-Machine learning-based recommendation system using NLP techniques.
+Chrome extension that translates Gmail emails, summarizes them with AI, and supports multilingual replies with text-to-speech.
 
-**Tech:** Python • Flask • Streamlit • TF-IDF • Cosine Similarity
+**Tech:** Chrome Extensions • JavaScript • Lingo.dev API • Gemini API • PDF.js
 
-Repository: *(Add your GitHub repository link here)*
+Repository: https://github.com/Samar-365/lingo_mail
 
 ---
 
@@ -98,7 +121,7 @@ Repository: *(Add your GitHub repository link here)*
 
 ## Connect With Me
 
-<p align="center">
+<p>
   <a href="https://samarshetye.netlify.app">Portfolio</a> •
   <a href="https://linkedin.com/in/samar-shetye">LinkedIn</a> •
   <a href="https://github.com/Samar-365">GitHub</a>
@@ -106,6 +129,10 @@ Repository: *(Add your GitHub repository link here)*
 
 ---
 
-<p align="center">
+<p>
 Thanks for visiting my profile.
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </p>
