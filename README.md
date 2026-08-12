@@ -26,7 +26,7 @@ Maharashtra, India
 
 ## Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,js,python,flask,nodejs,mysql,git,github,html,css,vscode,docker&perline=6"/>
 </p>
 
@@ -35,8 +35,8 @@ Maharashtra, India
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samar-365&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Samar-365&theme=github-dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samar-365&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Samar-365&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
