@@ -1,0 +1,18 @@
+<svg width="495" height="150" viewBox="0 0 495 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 16px 'Segoe UI', sans-serif; fill: #58a6ff; }
+    .label { font: 400 13px 'Segoe UI', sans-serif; fill: #8b949e; }
+    .value { font: 700 28px 'Segoe UI', sans-serif; fill: #c9d1d9; }
+  </style>
+  <rect width="495" height="150" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="30" class="title">Samar-365's GitHub Stats</text>
+
+  <text x="40" y="80" class="value" text-anchor="middle">215</text>
+  <text x="40" y="100" class="label" text-anchor="middle">Total</text>
+
+  <text x="247" y="80" class="value" text-anchor="middle">6</text>
+  <text x="247" y="100" class="label" text-anchor="middle">Current Streak</text>
+
+  <text x="455" y="80" class="value" text-anchor="middle">6</text>
+  <text x="455" y="100" class="label" text-anchor="middle">Longest Streak</text>
+</svg>
