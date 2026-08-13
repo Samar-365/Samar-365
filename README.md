@@ -57,10 +57,6 @@ Maharashtra, India
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Samar-365&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Samar-365/Samar-365/main/output/stats.svg" />
 </p>
 
