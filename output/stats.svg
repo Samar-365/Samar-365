@@ -14,7 +14,7 @@
   <line x1="466.5" y1="30" x2="466.5" y2="170" stroke="#30363d" stroke-width="1"/>
 
   <!-- Total Contributions -->
-  <text x="117" y="72" text-anchor="middle" class="value">257</text>
+  <text x="117" y="72" text-anchor="middle" class="value">262</text>
   <text x="117" y="100" text-anchor="middle" class="label">Total Contributions</text>
   <text x="117" y="122" text-anchor="middle" class="range">Aug 10, 2025 - Present</text>
 
