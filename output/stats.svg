@@ -14,7 +14,7 @@
   <line x1="466.5" y1="30" x2="466.5" y2="170" stroke="#30363d" stroke-width="1"/>
 
   <!-- Total Contributions -->
-  <text x="117" y="72" text-anchor="middle" class="value">333</text>
+  <text x="117" y="72" text-anchor="middle" class="value">334</text>
   <text x="117" y="100" text-anchor="middle" class="label">Total Contributions</text>
   <text x="117" y="122" text-anchor="middle" class="range">Aug 17, 2025 - Present</text>
 
@@ -22,12 +22,12 @@
   <circle cx="350" cy="72" r="46" fill="none" stroke="#56d364" stroke-width="3"/>
   <path d="M350 20 c-2 6 -6 8 -6 13 c0 3 3 5 6 5 c3 0 6 -2 6 -5 c0 -5 -4 -7 -6 -13 z"
         fill="#58a6ff"/>
-  <text x="350" y="82" text-anchor="middle" class="value-sm">10</text>
+  <text x="350" y="82" text-anchor="middle" class="value-sm">11</text>
   <text x="350" y="138" text-anchor="middle" class="label-bold">Current Streak</text>
-  <text x="350" y="158" text-anchor="middle" class="range">Aug 8 - Aug 17</text>
+  <text x="350" y="158" text-anchor="middle" class="range">Aug 8 - Aug 18</text>
 
   <!-- Longest Streak -->
-  <text x="583" y="72" text-anchor="middle" class="value">10</text>
+  <text x="583" y="72" text-anchor="middle" class="value">11</text>
   <text x="583" y="100" text-anchor="middle" class="label">Longest Streak</text>
-  <text x="583" y="122" text-anchor="middle" class="range">Aug 8 - Aug 17</text>
+  <text x="583" y="122" text-anchor="middle" class="range">Aug 8 - Aug 18</text>
 </svg>
